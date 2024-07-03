@@ -1,0 +1,2 @@
+# Daten simulieren
+Für die Erforschung von Bildverarbeitungsalgorithmen und insbesondere zur Messung ihrer Leistungsfähigkeit bei der Lösung der Aufgaben, für die sie entwickelt wurden, ist es sehr sinnvoll, Datensätze zu simulieren. In diesem Kapitel werden wir Bilder von Zellen, Membranen und Zellkernen simulieren und Beispiele dafür geben, wie diese uns helfen können, besser zu verstehen, was Algorithmen tatsächlich tun.

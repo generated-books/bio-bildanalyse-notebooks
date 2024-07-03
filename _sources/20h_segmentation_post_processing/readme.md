@@ -1,0 +1,3 @@
+# Segmentierung-Nachbearbeitung
+
+In diesem Kapitel werden wir Segmentierungsergebnisse nachbearbeiten. Dies umfasst das Filtern markierter Objekte nach ihren Eigenschaften, das Zusammenführen von Etiketten mithilfe manueller Anmerkungen und maschinellem Lernen sowie die Reduzierung von Etiketten auf ihre Schwerpunkte, ihre Grenzen, die Sicherstellung sequentieller Etikettierung oder ihre Aufteilung in innere und äußere Kanten.
