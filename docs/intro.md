@@ -1,5 +1,4 @@
 # Notizbücher zur Bio-Bildanalyse
-[![DOI](https://zenodo.org/badge/449194300.svg)](https://zenodo.org/badge/latestdoi/449194300)
 
 Diese Sammlung von [Python](https://www.python.org/)
 [Jupyter](https://jupyter.org/) Notizbüchern ist für Python-Anfänger geschrieben, die sich für die
@@ -8,6 +7,10 @@ Grundlegende Prinzipien werden anhand zweidimensionaler Bilddaten demonstriert u
 Dieses Buch richtet sich an Biologen, Biochemiker und Biophysiker.
 Wir führen die Fachsprache ein, die Informatiker und Datenwissenschaftler bei der Beschreibung von Bildsegmentierung, wissenschaftlichem Rechnen und Bilddatenwissenschaft verwenden.
 Falls Sie Verbesserungsmöglichkeiten sehen, erstellen Sie bitte [ein Github-Issue](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/issues) und/oder erwägen Sie einen [Beitrag](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/blob/main/CONTRIBUTING.md).
+
+## Vorwort zur Deutschen Edition
+
+Dieses Buch ist eine automatisch übersetzte Edition der im original Englischen [BioImageAnalysisNotebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks). Da die Übersetzung von einer Künstlichen Intelligenz generiert wurde ([Siehe Quellcode](https://github.com/generated-books/bio-bildanalyse-notebooks/blob/main/generator.ipynb)), und nur wenig kuratiert wurde, sind die Inhalte mit entsprechender Vorsicht zu geniessen. [Feedback und Verbesserungsvorschläge](https://github.com/generated-books/bio-bildanalyse-notebooks/issues) ist jederzeit willkommen!
 
 ## Struktur dieses Jupyter-Buches
 
