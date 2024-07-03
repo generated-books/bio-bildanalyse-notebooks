@@ -1,12 +1,14 @@
-# Impressum 
+
+# Imprint 
 
 ## Impressum
 ### Angaben gemäß § 5 TMG
 
 Dr. rer. medic. Robert Haase\
-DFG Cluster of Excellence "Physics of Life", TU Dresden\
-Arnoldstrasse 18\
-01307 Dresden
+Data Science Center, ScaDS.AI
+Universität Leipzig
+Humboldstraße 25
+04105 Leipzig
 
 ### Kontakt
 Telefon: +49 351 463-40315\
@@ -14,9 +16,10 @@ E-Mail: robert.haase (at] tu-dresden.de
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Dr. rer. medic. Robert Haase\
-DFG Cluster of Excellence "Physics of Life", TU Dresden\
-Arnoldstrasse 18\
-01307 Dresden
+Data Science Center, ScaDS.AI
+Universität Leipzig
+Humboldstraße 25
+04105 Leipzig
 
 # Haftungsausschluss
 
