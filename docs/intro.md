@@ -133,19 +133,42 @@ Falls Sie sich für bestimmte Themen interessieren, finden Sie möglicherweise a
 
 Wenn Sie Lektionen in diesem Jupyter-Buch diskutieren, Feedback und/oder Vorschläge haben möchten, öffnen Sie bitte einen Thread auf [image.sc](https://image.sc/) und taggen Sie @haesleinhuepf.
 
-## Danksagungen
+## Danksagungen / Acknowledgements
 
-Wir danken auch den Autoren, die ihre Lehrmaterialien offen geteilt haben, sodass wir sie wiederverwenden und modifizieren konnten:
+We also thank authors who shared their teaching materials openly so that we could reuse and modify them:
 * Anna Poetsch, Biotec, TU Dresden
-* Dominik Waithe, Universität Oxford
-* Guillaume Witz, Universität Bern
+* Dominik Waithe, University of Oxford
+* Guillaume Witz, University of Bern
 * Johannes Müller, PoL, TU Dresden
 * Laura Žigutytė, PoL, TU Dresden
-* Pete Bankhead, Universität Edinburgh
+* Pete Bankhead, University of Edinburgh
 * Ryan George Savill, MPI-CBG Dresden / PoL, TU Dresden
 
-Wir möchten den Personen danken, die die Bilder erstellt haben, die wir zu Demonstrationszwecken in diesem Jupyter-Buch verwenden.
+We want to acknowledge the people who produced the images we are using for demonstration purposes in this Jupyter book.
 * Alba Villaronga Luque, MPI-CBG Dresden
-* Alexandr Khrapichev, Universität Oxford, UK
-* Anne Carpenter, Broad Institute, Boston, MA, USA
-* Anne Esslinger, Alberti Lab, MPI-CBG,
+* Alexandr Khrapichev, University of Oxford, UK
+* Anne Carpenter, Broad Institute, Boston, MA, United States
+* Anne Esslinger, Alberti Lab, MPI-CBG, Germany
+* Daniela Vorkel, Myers Lab, MPI-CBG / CSBD, Dresden, Germany
+* David Legland, INRAE, UR BIA, Nantes, France
+* Jean-Karim Hériché, Cell Biology/Biophysics Unit, EMBL Heidelberg, Germany
+* Jesse Veenvliet, MPI-CBG Dresden
+* Mauricio Rocha Martins, Norden Lab, MPI-CBG, Germany
+* Nasreddin Abolmaali, OncoRay, TU Dresden, Germany
+* Sascha M. Kuhn, Nadler Lab, MPI-CBG Dresden, Germany
+* Theresa Suckert, OncoRay, University Hospital Carl Gustav Carus, TU Dresden
+* Tony Collins, the creator of ImageJ for Microscopy
+
+
+We acknowledge support by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy—EXC2068–Cluster of Excellence Physics of Life of TU Dresden.
+This project has been made possible in part by grant numbers 2021-240341, 2021-237734 and 2022-252520 from the Chan Zuckerberg Initiative DAF, an advised fund of the Silicon Valley Community Foundation.
+We acknowledge the financial support by the Federal Ministry of Education and Research of Germany and by Sächsische Staatsministerium für Wissenschaft, Kultur und Tourismus in the programme Center of Excellence for AI-research „Center for Scalable Data Analytics and Artificial Intelligence Dresden/Leipzig“, project identification number: ScaDS.AI
+
+## License
+
+All contents of this Jupyter book and the corresponding Github repository are licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) and 
+BSD3 by the [authors and contributors](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/contributors), unless mentioned otherwise.
+
+## Contributing
+
+Please see our [CONTRIBUTING](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/blob/main/CONTRIBUTING.md) guide for details.
