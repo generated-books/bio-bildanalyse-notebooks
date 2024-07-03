@@ -1,0 +1,3 @@
+Dies ist ein Ausschnitt (in `x`, `y` und `t`) des Krebszellmigrationsdatensatzes von [Tinevez, J. & Guillaume Jacquemet, G.](https://zenodo.org/record/5206107#.ZFthHnZBxPa), lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Für das entsprechende Voronoi-Otsu-Labeling-Ergebnis wurde [napari-pyclesperanto-assistant](https://github.com/clEsperanto/napari_pyclesperanto_assistant) mit `spot_sigma = 5` und `outline_sigma = 3` verwendet.
