@@ -10,7 +10,7 @@ Falls Sie Verbesserungsmöglichkeiten sehen, erstellen Sie bitte [ein Github-Iss
 
 ## Vorwort zur Deutschen Edition
 
-Dieses Buch ist eine automatisch übersetzte Edition der im original Englischen [BioImageAnalysisNotebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks). Da die Übersetzung von einer Künstlichen Intelligenz generiert wurde ([Siehe Quellcode](https://github.com/generated-books/bio-bildanalyse-notebooks/blob/main/generator.ipynb)), und nur wenig kuratiert wurde, sind die Inhalte mit entsprechender Vorsicht zu geniessen. [Feedback und Verbesserungsvorschläge](https://github.com/generated-books/bio-bildanalyse-notebooks/issues) ist jederzeit willkommen!
+Dieses Buch ist eine automatisch übersetzte Edition der im original Englischen [BioImageAnalysisNotebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks). Da die Übersetzung von einer Künstlichen Intelligenz generiert wurde ([Siehe Quellcode](https://github.com/generated-books/bio-bildanalyse-notebooks/blob/main/generator.ipynb)), und nur wenig kuratiert wurde, sind die Inhalte mit entsprechender Vorsicht zu geniessen. [Feedback und Verbesserungsvorschläge](https://github.com/generated-books/bio-bildanalyse-notebooks/issues) sind jederzeit willkommen!
 
 ## Struktur dieses Jupyter-Buches
 
